@@ -59,12 +59,16 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 - [Mosquits](https://webserver.mosquitoalert.com/static/tigapublic/spain.html#/ca) (Col·laboratiu)
 - [Embalses i pluviòmetres a la província de Barcelona](https://www.embalses.net/provincia-47-barcelona.html)
 - [Qualitat de l'aire](https://www.iqair.com/es/air-quality-map/spain/catalunya/badalona) (Sembla que és una aproximació, ja que no es veu cap mesurador de la qualitat de l'aire a Badalona, encara que se suposa que [sí que n'hi ha](https://www.badalona.cat/es/servicios-ayuntamiento/medioambiente-y-sostenibilidad/ecologia-urbana/calidad-del-aire)).
+- [Incendis forestals entre 2001 i 2015](https://civio.es/espana-en-llamas/mapa-de-incendios-forestales/#explora)
 
-## Urbanisme i energia
-- [Comunitats energètiques](https://www.energiacomun.org/mapa/).
-- [Geoportal de Badalona](https://geoportal.badalona.cat/geoportal/?center=436402.0,4588919.9&scale=25000&thematic=tematic4): patrimoni, zones d'habitatges d'ús turístic, etc.
+## Sanitat
+- [Pressió assistencial a atenció primària](https://civio.es/medicamentalia/buscador-presion-asistencial-atencion-primaria/)
 
 ## Transport
 - [Carril bici](https://www.redtransporte.com/barcelona/carril-bici/badalona.html)
 - [Estat carrils bici any 2023](https://www.badalona.cat/es/servicios-ayuntamiento/transportes-y-movilidad/moverse-con-transporte-publico/moverse-en-bicicleta/mob_carrils-bici-05_2023.pdf)
 - [Servei de lloguer de bicicletes AMBici](https://www.ambici.cat/ca/mapa/)
+
+## Urbanisme i energia
+- [Comunitats energètiques](https://www.energiacomun.org/mapa/).
+- [Geoportal de Badalona](https://geoportal.badalona.cat/geoportal/?center=436402.0,4588919.9&scale=25000&thematic=tematic4): patrimoni, zones d'habitatges d'ús turístic, etc.
