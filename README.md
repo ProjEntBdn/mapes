@@ -22,11 +22,13 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 # Llistat de mapes
 
 ## Mapes generals
-- [Mapes AMB](https://www.amb.cat/s/web/area-metropolitana/dades-obertes/mapes.html): equipaments, parcs, platges, taxis, etc.
+- [Mapes de l'Àrea Metropolitina de Barcelona (AMB)](https://www.amb.cat/s/web/area-metropolitana/dades-obertes/mapes.html): equipaments, parcs, platges, taxis, etc.
 - [Google Maps](https://www.google.es/maps/@41.4474285,2.2457771,15.46z)
-- [Mapcomplete](https://mapcomplete.org/): mapes col·laboratius on es pot trobar gairebé de tot.
+- [MapComplete](https://mapcomplete.org/): mapes col·laboratius on es pot trobar gairebé de tot.
 - [Mapeig ciutadà](https://llefia.org/mapeig-ciutada/): mapes col·laboratius promoguts per entitats de Badalona. Inclou el camí lila, accessibilitat, arbres, patrimoni i pistes de bàsquet.
 - [Mapa de l'Ajuntament](https://www.badalona.cat/ca/viure-bdn/planols/guia-de-la-ciutat/mapa-escolar): a dalt a l'esquerra hi ha tres barres horitzontals que permeten seleccionar capes amb la informació a mostrar, hi ha una gran quantitat d'informació interessant.
+- [Fotos, natura i altres](https://www.google.com/maps/d/viewer?mid=1mmiboUw5lTOrd8eriKAngUBUOjYwgYdu): rieres, turons, colls, patrimoni, llocs amb informació a la Viquipèdia, barris i una gran quantitat de fotos.
+- [Indicadors Àmbits Estadístics Metropolitans (AEM)](https://ide.amb.cat/ambits-estadistics-metropolitans/): demografia, renda, habitatge i entorn residencial, activitat econòmica, mobilitat i qualitat del medi, sostenibilitat i resilència.
 
 ## Activitat econòmica
 - [Consum responsable](https://pamapam.cat/mapa/)
@@ -62,7 +64,7 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 - [Incendis forestals entre 2001 i 2015](https://civio.es/espana-en-llamas/mapa-de-incendios-forestales/#explora)
 
 ## Sanitat
-- [Pressió assistencial a atenció primària](https://civio.es/medicamentalia/buscador-presion-asistencial-atencion-primaria/)
+- [Pressió assistencial a l'atenció primària](https://civio.es/medicamentalia/buscador-presion-asistencial-atencion-primaria/)
 
 ## Transport
 - [Carril bici](https://www.redtransporte.com/barcelona/carril-bici/badalona.html)
