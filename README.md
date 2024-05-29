@@ -59,7 +59,7 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 - [Observacions de fauna als parcs i platges](https://visorfauna.amb.cat/viewer/amb/BD/1/0/26.11.2023/26.5.2024/0) (Col·laboratiu)
 - [Meduses a les platges](https://www.medusapp.net/mapa/mapa-portada.php) (Col·laboratiu)
 - [Mosquits](https://webserver.mosquitoalert.com/static/tigapublic/spain.html#/ca) (Col·laboratiu)
-- [Embalses i pluviòmetres a la província de Barcelona](https://www.embalses.net/provincia-47-barcelona.html)
+- [Embassaments i pluviòmetres a la província de Barcelona](https://www.embalses.net/provincia-47-barcelona.html)
 - [Qualitat de l'aire](https://www.iqair.com/es/air-quality-map/spain/catalunya/badalona) (Sembla que és una aproximació, ja que no es veu cap mesurador de la qualitat de l'aire a Badalona, encara que se suposa que [sí que n'hi ha](https://www.badalona.cat/es/servicios-ayuntamiento/medioambiente-y-sostenibilidad/ecologia-urbana/calidad-del-aire)).
 - [Incendis forestals entre 2001 i 2015](https://civio.es/espana-en-llamas/mapa-de-incendios-forestales/#explora)
 
