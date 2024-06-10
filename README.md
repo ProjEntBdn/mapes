@@ -25,6 +25,7 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 - [Mapes de l'Àrea Metropolitina de Barcelona (AMB)](https://www.amb.cat/s/web/area-metropolitana/dades-obertes/mapes.html): equipaments, parcs, platges, taxis, etc.
 - [Google Maps](https://www.google.es/maps/@41.4474285,2.2457771,15.46z)
 - [MapComplete](https://mapcomplete.org/): mapes col·laboratius on es pot trobar gairebé de tot.
+- [StreetComplete](https://streetcomplete.app/): app col·laborativa per ajudar a completar els mapes [d'OpenStreetMap](https://umap.openstreetmap.fr/ca/).
 - [Mapeig ciutadà](https://llefia.org/mapeig-ciutada/): mapes col·laboratius promoguts per entitats de Badalona. Inclou el camí lila, accessibilitat, arbres, patrimoni i pistes de bàsquet.
 - [Mapa de l'Ajuntament](https://www.badalona.cat/ca/viure-bdn/planols/guia-de-la-ciutat/mapa-escolar): a dalt a l'esquerra hi ha tres barres horitzontals que permeten seleccionar capes amb la informació a mostrar, hi ha una gran quantitat d'informació interessant.
 - [Fotos, natura i altres](https://www.google.com/maps/d/viewer?mid=1mmiboUw5lTOrd8eriKAngUBUOjYwgYdu): rieres, turons, colls, patrimoni, llocs amb informació a la Viquipèdia, barris i una gran quantitat de fotos.
@@ -62,6 +63,8 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 - [Embassaments i pluviòmetres a la província de Barcelona](https://www.embalses.net/provincia-47-barcelona.html)
 - [Qualitat de l'aire](https://www.iqair.com/es/air-quality-map/spain/catalunya/badalona) (Sembla que és una aproximació, ja que no es veu cap mesurador de la qualitat de l'aire a Badalona, encara que se suposa que [sí que n'hi ha](https://www.badalona.cat/es/servicios-ayuntamiento/medioambiente-y-sostenibilidad/ecologia-urbana/calidad-del-aire)).
 - [Incendis forestals entre 2001 i 2015](https://civio.es/espana-en-llamas/mapa-de-incendios-forestales/#explora)
+- [Banderes negres 2023](https://www.google.com/maps/d/viewer?mid=1P68vTnk2IwOMfRFGvomaWRBajNOC39c&femb=1&ll=41.443591828379276%2C2.269027454966297&z=13): [informe](https://www.ecologistasenaccion.org/wp-content/uploads/2023/06/informe-banderas-negras-2023.pdf).
+- [Mapes atmosfèrics, marítims, qualitat de l'aire, pol·len, etc](https://www.tiempo.com/mapas-meteorologicos/): es pot seleccionar la capa a sota a la dreta. 
 
 ## Sanitat
 - [Pressió assistencial a l'atenció primària](https://civio.es/medicamentalia/buscador-presion-asistencial-atencion-primaria/)
@@ -70,7 +73,13 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 - [Carril bici](https://www.redtransporte.com/barcelona/carril-bici/badalona.html)
 - [Estat carrils bici any 2023](https://www.badalona.cat/es/servicios-ayuntamiento/transportes-y-movilidad/moverse-con-transporte-publico/moverse-en-bicicleta/mob_carrils-bici-05_2023.pdf)
 - [Servei de lloguer de bicicletes AMBici](https://www.ambici.cat/ca/mapa/)
+- [Punts de recàrrega per a cotxes elèctrics](https://www.iberdrola.es/movilidad-electrica/puntos-de-recarga)
 
 ## Urbanisme i energia
 - [Comunitats energètiques](https://www.energiacomun.org/mapa/).
+- [Projectes agrosolars](https://agrisolareurope.org/map/)
+- [Ombres simulades](https://shademap.app/@41.44883,2.23027,13.42464z,1717943628962t,0b,0p,0m): [explicació](https://www.microsiervos.com/archivo/mundoreal/shademap-mapa-sombras-ciudad.html)
 - [Geoportal de Badalona](https://geoportal.badalona.cat/geoportal/?center=436402.0,4588919.9&scale=25000&thematic=tematic4): patrimoni, zones d'habitatges d'ús turístic, etc.
+
+## Altres
+- [Carrers amb nom de dona](https://geochicasosm.github.io/lascallesdelasmujeres/)
