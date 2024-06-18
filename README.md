@@ -40,6 +40,7 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 ## Cultura
 - [Cartografia literària de Badalona](https://www.espaibetulia.cat/cartografia-literaria-de-badalona/)
 - [NearbyWiki](https://es.nearbywiki.org/map/#13/41.4554/2.2625): llocs físics amb pàgines a la Wikipedia.
+- [Origen, etimologia i popularitat del teu cognom](https://es.geneanet.org/apellidos/)
 
 ## Educació
 - [Zones educatives de Badalona](https://serveiseducatius.xtec.cat/badalona/portada/guia-dinformacio-educativa-2024-25-i-mapa-de-les-zones-educatives-de-badalona/)
@@ -64,10 +65,17 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 - [Qualitat de l'aire](https://www.iqair.com/es/air-quality-map/spain/catalunya/badalona) (Sembla que és una aproximació, ja que no es veu cap mesurador de la qualitat de l'aire a Badalona, encara que se suposa que [sí que n'hi ha](https://www.badalona.cat/es/servicios-ayuntamiento/medioambiente-y-sostenibilidad/ecologia-urbana/calidad-del-aire)).
 - [Incendis forestals entre 2001 i 2015](https://civio.es/espana-en-llamas/mapa-de-incendios-forestales/#explora)
 - [Banderes negres 2023](https://www.google.com/maps/d/viewer?mid=1P68vTnk2IwOMfRFGvomaWRBajNOC39c&femb=1&ll=41.443591828379276%2C2.269027454966297&z=13): [informe](https://www.ecologistasenaccion.org/wp-content/uploads/2023/06/informe-banderas-negras-2023.pdf).
-- [Mapes atmosfèrics, marítims, qualitat de l'aire, pol·len, etc](https://www.tiempo.com/mapas-meteorologicos/): es pot seleccionar la capa a sota a la dreta. 
+- [Banderes negres 2024](https://www.google.com/maps/d/viewer?mid=1dnQt1TB2MqCfSWkVW6YaPrlOCNGtHVk&ll=41.44390378761773%2C2.254122613370475&z=14): [informe](https://www.ecologistasenaccion.org/wp-content/uploads/2024/06/Informe-Banderas-Negras-2024.pdf).
+- [Mapes atmosfèrics, marítims, qualitat de l'aire, pol·len, etc](https://www.tiempo.com/mapas-meteorologicos/): es pot seleccionar la capa a sota a la dreta.
 
-## Sanitat
+## Política
+- [Eleccions europees 2024 per seccions censals](https://es.ara.cat/misc/mapa-han-votado-vecinos-elecciones-europeas-calle-calle_1_5056723.html)
+- [Mapes eleccions europees 2024](https://www.ara.cat/politica/eleccions-europees/mapes-entendre-resultats-eleccions-europees_1_5056282.html)
+
+## Sanitat i benestar
 - [Pressió assistencial a l'atenció primària](https://civio.es/medicamentalia/buscador-presion-asistencial-atencion-primaria/)
+- [Refugis climàtics a Badalona el 2024](https://www.diaridebadalona.com/noticia/mapa-l-aquests-son-els-11-refugis-climatics-de-badalona/): [més informació](https://www.badalona.cat/es/actualidad/noticias/badalona-crea-una-red-de-11-refugios-climaticos-para-protegerse-de-altas-temperaturas)
+- [Refugis climàtics a l'àrea metropolitana de Barcelona el 2024](https://www.elperiodico.com/es/badalona/20240613/mapa-de-mercados-a-bibliotecas-donde-resguardarse-del-calor-este-verano-en-el-area-de-barcelona-103697268)
 
 ## Transport
 - [Carril bici](https://www.redtransporte.com/barcelona/carril-bici/badalona.html)
@@ -80,6 +88,9 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 - [Projectes agrosolars](https://agrisolareurope.org/map/)
 - [Ombres simulades](https://shademap.app/@41.44883,2.23027,13.42464z,1717943628962t,0b,0p,0m): [explicació](https://www.microsiervos.com/archivo/mundoreal/shademap-mapa-sombras-ciudad.html)
 - [Geoportal de Badalona](https://geoportal.badalona.cat/geoportal/?center=436402.0,4588919.9&scale=25000&thematic=tematic4): patrimoni, zones d'habitatges d'ús turístic, etc.
+- [Informació sobre talls d'energia programats i avaries](https://www.edistribucion.com/es/averias.html)
+- [Visió per satèl·lit dels canvis des de 1984](https://earthengine.google.com/timelapse/): cal situar-se sobre "Badalona, Spain" i aproximar una mica la vista.
+- [Laberints](https://labyrinthlocator.org/world-wide-labyrinth-map/) (Col·laboratiu)
 
 ## Altres
 - [Carrers amb nom de dona](https://geochicasosm.github.io/lascallesdelasmujeres/)
