@@ -69,6 +69,7 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 -   [Cens d'entitats de foment de la llengua catalana](https://llengua.gencat.cat/ca/serveis/entitats/cens-entitats/entitats-cens/)
 -   [Mapa en construcció de les entitats ciutadanes actives de Badalona](https://umap.openstreetmap.fr/ca/map/entitats-actives-de-badalona_1027376#14/41.4484/2.2448) (Més informació a [Twitter](https://x.com/ProjEntBdn))
 -   [Entitats i clubs esportius](https://www.badalona.cat/es/servicios-ayuntamiento/deporte/entidades-y-clubes-1)
+-   Entitats participants en el [Calendari d'Advent Solidari de Badalona](https://calendariadventsolidari.cat/): [2023](https://umap.openstreetmap.fr/ca/map/calendari-dadvent-solidari-de-badalona-2023_1119266), [2024](https://umap.openstreetmap.fr/ca/map/calendari-dadvent-solidari-de-badalona-2024_1159429)
 
 ## Natura, medi ambient i ecologisme
 
