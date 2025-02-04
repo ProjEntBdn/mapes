@@ -120,6 +120,7 @@ Aquest repositori conté una recopilació d'enllaços útils per a la creació o
 -   [Laberints](https://labyrinthlocator.org/world-wide-labyrinth-map/) (Col·laboratiu)
 -   [Cobertes amb fibrociment (amiant)](https://presidencia.gencat.cat/ca/ambits_d_actuacio/amiant.cat/ciutadania/visor-amiant/)
 -   [Mapa urbanístic de Catalunya](https://dtes.gencat.cat/muc-visor/AppJava/home.do?municipi=08015&set-locale=ca)
+-	[Arquitectura hostil contra les persones sense llar](https://www.arrelsfundacio.org/es/arquitectura-hostil/)
 
 ## Altres
 
